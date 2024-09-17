@@ -3,6 +3,7 @@ import random
 from pygame import mixer
 pygame.init()
 
+
 # main screen 
 screen = pygame.display.set_mode((1200,700))
 pygame.display.set_caption("Jaddeh")
